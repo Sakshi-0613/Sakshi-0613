@@ -33,6 +33,8 @@ I'm always learning, improving, and adding that little extra ✨ to everything I
 ![HTML](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 #### 📚 Libraries & Frameworks
 `TensorFlow` • `Scikit-learn` • `Pandas` • `NumPy` • `Keras` • `Matplotlib` • `Seaborn`  
