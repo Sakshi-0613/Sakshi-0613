@@ -61,9 +61,6 @@ I'm always learning, improving, and adding that little extra ✨ to everything I
   <a href="https://www.linkedin.com/in/sakshi-mogal-180553280/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Sakshi-0613">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.kaggle.com/sakshimogal13">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
